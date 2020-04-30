@@ -1,0 +1,2 @@
+# Bitcoin-Mining-Pool-Detection-and-Identifying-Anomalies
+Bitcoin provides an extra level of anonymity for the identities of the users, since the user addresses are hashed. A Mining pool is the pooling of resources by miners, who share their processing power over a network, to split the reward equally, according to the amount of work they contributed to the probability of finding a block. I attempt to create a classifier model which identifies the mining pools from other users and then detects anomalies in these mining pools.
